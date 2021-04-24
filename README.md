@@ -1,3 +1,7 @@
+<a href="https://github.com/spikycord/Simple-Mod-Bot" target="blank">
+<img src="https://img.shields.io/github/stars/spikycord/Simple-Mod-Bot?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+
 # Simple-Mod-Bot
 An Open Source Discord.js Moderation bot
 
